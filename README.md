@@ -4,6 +4,10 @@ Dating application with user profiles, search, likes, and messaging.
 
 **Status:** Local development; a public demo is not yet available.
 
+## Preview
+
+[![Lova Dating Site — application preview](docs/screenshots/project-preview.png)](docs/screenshots/project-preview.png)
+
 ## Features
 
 - User profiles, albums, and information
